@@ -1,7 +1,7 @@
 ---
-pubDate: "Jan 08 2022"
-title: "About Us"
-description: "About the Smart Golf Cart team"
+pubDate: "May 18 2022"
+title: "Presentation"
+description: "Our Presentation"
 image: "~/assets/images/team.jpg"
 category: "Presentation"
 tags: [about, team, presentation]
