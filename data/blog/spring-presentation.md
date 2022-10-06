@@ -2,7 +2,7 @@
 pubDate: "May 18 2022"
 title: "Presentation"
 description: "Our Presentation"
-image: "~/assets/images/team.jpg"
+image: "https://docs.autogolfc.art/src/thumbnails/presentation.png"
 category: "Presentation"
 tags: [about, team, presentation]
 ---
